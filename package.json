@@ -1,0 +1,17 @@
+{
+  "name": "electronRadioApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.4",
+    "jquery": "^3.4.1",
+    "jsdom": "^16.4.0",
+    "lautfm": "^1.0.3"
+  }
+}
